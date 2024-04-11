@@ -19,4 +19,9 @@ The Imperium's **frontier sector**, a vast region on the outermost fringes of hu
 - **Diverse Worlds:** The sector contains a mix of settled planets, unexplored systems, and alien civilizations.
 - **Political Landscape:** The Spinward Marches is a complex political region. The Imperial government holds some sway, but there are also independent worlds, powerful corporations, and even the fringe of the Zhodani Consulate, a rival interstellar power.
 
+**Relevance**
+The playground for the mission the characters is currently underdoing.
+[[5. Rollspel/Traveller/Survey/Third Survey - Spinward Marches\|Third Survey - Spinward Marches]]
+
+
 ![Spinward_Marches.png](/img/user/5.%20Rollspel/Traveller/Spinward_Marches.png)
