@@ -21,7 +21,7 @@ Alpha Quadrant:
 **[[5. Rollspel/Traveller/Delta Quadrant/Delta Quadrant\|Delta Quadrant]]:**
 	Subsector I: Darrian
 	Subsector J: Sword Worlds
-	**Subsector K: [[Lunion\|Lunion]]**
+	**Subsector K: [[5. Rollspel/Traveller/Delta Quadrant/Lunion\|Lunion]]**
 	Subsector L: Mora
 Gamma Quadrant:
 	Subsector M: Five Sisters
@@ -60,7 +60,7 @@ Subsector G: Lanth **(D'Ganzio)**
 | Arba           | 1721 | C200 200-C           | N     | **Lo**w Pop <br>**Va**cuum                                             | NO<br><font style="color:green">TASR </font>                                           | 600  | Im    | M2 V       | **No deviations** |
 | Rabwhar        | 1822 | D544 8BA-6           | S     | **P**re-**A**gricult  **P**re-**H**igh **P**re-**I**nd  **P**u**z**zle | <font style="color:orange">Caution </font><br><font style="color:#FFBF00">TASR </font> | 300m | lm    | K5 V       | **No deviations** |
 | Ianic          | 1924 | E560 697-5           |       | De Ni <br>**Ri**ch                                                     | NO<br><font style="color:green">TASR </font>                                           | 9m   | lm    | M3 V M7 V  | **No deviations** |
-| **[[Lunion\|Lunion]]** | 2124 | A995 984-D           | A     | Hi <br>In Cp                                                           |                                                                                        | 810  | Im    | G5 V       | **No deviations** |
+| **[[5. Rollspel/Traveller/Delta Quadrant/Lunion\|Lunion]]** | 2124 | A995 984-D           | A     | Hi <br>In Cp                                                           |                                                                                        | 810  | Im    | G5 V       | **No deviations** |
 **Lunion** is an industrial [world](https://wiki.travellerrpg.com/World "World") with a tainted [atmosphere](https://wiki.travellerrpg.com/Atmosphere "Atmosphere"). The system has a population over one billion. This system serves as the capital for the subsector. 
 It is a member of [Third Imperium](https://wiki.travellerrpg.com/Third_Imperium "Third Imperium") in the [Lunion Subsector](https://wiki.travellerrpg.com/Lunion_Subsector "Lunion Subsector") of [Spinward Marches Sector](https://wiki.travellerrpg.com/Spinward_Marches_Sector "Spinward Marches Sector") and in the [Domain of Deneb](https://wiki.travellerrpg.com/Domain_of_Deneb "Domain of Deneb"). 
 **Lunion**, as a member world of the [Third Imperium](https://wiki.travellerrpg.com/Third_Imperium "Third Imperium"), holds the estate of an [Imperial](https://wiki.travellerrpg.com/Third_Imperium "Third Imperium") [knight](https://wiki.travellerrpg.com/Knight "Knight") and the [fiefdoms](https://wiki.travellerrpg.com/Fiefdom "Fiefdom") of a [count](https://wiki.travellerrpg.com/Count "Count") and the Subsector [duke](https://wiki.travellerrpg.com/Duke "Duke"). All three are members of the [Imperial Nobility](https://wiki.travellerrpg.com/Imperial_Nobility "Imperial Nobility") charged with overseeing the world. The system supports both an Imperial [Naval Base](https://wiki.travellerrpg.com/Naval_Base "Naval Base") and a [Scout Base](https://wiki.travellerrpg.com/Scout_Base "Scout Base") with the additional starship traffic.
@@ -75,7 +75,7 @@ It is a member of [Third Imperium](https://wiki.travellerrpg.com/Third_Imperium
 
 | Name            | Hex  | Universal<br>WorldProfile | Bases | Codes    | Zone restr. | POP | Alleg | Stellar Data | Notes:                                                             |
 | --------------- | ---- | ------------------------- | ----- | -------- | ----------- | --- | ----- | ------------ | ------------------------------------------------------------------ |
-| **[[Lunion\|Lunion]]**  | 2124 | A995984-D                 | A     | Hi In Cp |             | 810 | Im    | G5 V         | **No deviations**                                                  |
+| **[[5. Rollspel/Traveller/Delta Quadrant/Lunion\|Lunion]]**  | 2124 | A995984-D                 | A     | Hi In Cp |             | 810 | Im    | G5 V         | **No deviations**                                                  |
 |                 | 2225 |                           |       |          |             |     |       |              | Empty space                                                        |
 | Strouden        | 2327 | A745988-D                 | N     | Hi In    |             | 920 | Im    | G5 V M4 V    | Refuel  **No deviations**<br>                                      |
 |                 | 2329 |                           |       |          |             |     |       |              | Empty space                                                        |
