@@ -28,8 +28,11 @@
 |**[[Gone Looking/Positions/Trader\|Trader]]**:|*Wert*| |
 |**[[Gone Looking/Positions/Comms\|Comms]]**:|*Micah*| |
 
+**[[Tant\|Tant]]**
+Trying a Tant
 
 **Time**
+
 1105
 5th frontier war is probably about to break out somewhere out there...
 
