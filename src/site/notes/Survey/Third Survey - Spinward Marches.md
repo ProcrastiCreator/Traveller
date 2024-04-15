@@ -96,15 +96,6 @@ D'Ganzio is controlled by the [Instellarms](https://wiki.travellerrpg.com/Inste
 
 
 
-
-
-
-
-
-
-
-
-
 Zeycude       0101 C430698-9    De Na Ni Po        613 Zh K9 V           
 Reno          0102 C4207B9-A    De He Na Po Pi  A  603 Zh G8 V M1 V      
 Errere        0103 B563664-B  F Ni Ri O:0304       910 Zh M1 V M4 V      
