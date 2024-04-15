@@ -5,4 +5,4 @@
 
 Located at Lunion
 
-First met in Jacks [[Survey/Chronicle 3\|Chronicle 3]] 
+First met in Jacks [[Chronicle 3\|Chronicle 3]] 
