@@ -92,41 +92,7 @@ It is a member of [Third Imperium](https://wiki.travellerrpg.com/Third_Imperium
 | D'Ganzio | 1920 | B420410-D                 | N     | **De**sert **He**llworld **N**on**I**ndust **Po**or | NO <font style="color:green">TASR </font><br> | 38k | Im    |              | 312    |
 D'Ganzio is controlled by the [Instellarms](https://wiki.travellerrpg.com/Instellarms "Instellarms") corpor
 
-**Wayne Albach**- Broker on Lunion bought some military laser rifles. Lunion is the badministrative center of the Lunion Subsector K.
-Jack bought a Mech suit, a Guss Pistol, A snub pistol and a body pistol.
 
-**Jony Moora** heard good about the crew since earlier
-900cr/t/week
-500cr/passenger birth/week 
-
-Gra
-
-To the planet of Pyramus
-Be on Pyramus for a month. 
-
-Bring a veterinarian, going to deal with.
-
-Picking up a couple deep freeze low birth crates:
-Przewalski
-Terseman sulemani stock
-Artemis Project - Charity
-2 adult mares
-2 inadult mares
-and another one
-
-1 adult stallion and a juvinile stallion crate 20 ton container.
-If delivered alive. 5k/animal
-If healty after a month, another +20k per month.
-Deliver to sir Tayce Gazishpa wich is responsible for the Artemis Project.
-
-Buying Collapsable tanks for 20.000 (40tonnes) to be able to jump more times before refuelling. Wich leaves 98 tonnes for cargo.
-
-Scanned 2225
-Jumped to Strouden, Sold our Freight Goods for 414,000
-Sold 
-2325
-Jumped to Bicorn
-2432
 
 
 
