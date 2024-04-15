@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/survey/delta-quadrant/lunion/"}
 ---
 
-Lunion is one of the most checked out planets. Its the administrative center of the [[Survey/Subsector\|Subsector]].
+Lunion is one of the most checked out planets. Its the administrative center of the [[Subsector\|Subsector]].
 
 **Lunion** is an industrial [world](https://wiki.travellerrpg.com/World "World") with a tainted [atmosphere](https://wiki.travellerrpg.com/Atmosphere "Atmosphere"). The system has a population over one billion. This system serves as the capital for the subsector K: Lunion in the [[Survey/Delta Quadrant/Delta Quadrant\|Delta Quadrant]] of the [[Survey/Spinward Marches\|Spinward Marches]].
 
