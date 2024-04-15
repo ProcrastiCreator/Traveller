@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/traveller-rpg-campaign/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/traveller-rpg-campaign/"}
 ---
 
 > [!infobox]+ Collapsible Infobox
@@ -66,5 +66,5 @@ Planetary sources:
 
 
 
-**[[Survey/Chronicle 3\|Chronicle 3]]**
+**[[Chronicle 3\|Chronicle 3]]**
    
