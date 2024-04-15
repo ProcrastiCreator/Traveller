@@ -23,10 +23,10 @@ Alpha Quadrant:
 	Subsector J: Sword Worlds
 	**Subsector K: [[Survey/Delta Quadrant/Lunion\|Lunion]]**
 	Subsector L: Mora
-Gamma Quadrant:
+[[Survey/Gamma Quadran/Gamma Quadrant\|Gamma Quadrant]]:
 	Subsector M: Five Sisters
 	Subsector N: District 268
-	Subsector O: Glisten
+	Subsector O: [[Survey/Gamma Quadran/Glisten Subsector/Glisten subsector\|Glisten subsector]]
 	Subsector P: Trin's Veil
 
 Alleg: Cs: "Client state, Third Imperium"
@@ -84,7 +84,7 @@ It is a member of [Third Imperium](https://wiki.travellerrpg.com/Third_Imperium
 | Burtson         | 2534 | C562667-8                 |       | Ni Ri O  | 2733        | 402 | Im    | G4 V         | **No deviations**                                                  |
 |                 | 2432 |                           |       |          |             |     |       |              | Empty space                                                        |
 | Squanine        |      |                           |       |          |             |     |       |              | Empty space                                                        |
-| **[[Pyramus\|Pyramus]]** | 2538 | E566335-2                 |       | Lo       |             | 214 | Im    | K6 V         | *Se next report*                                                   |
+| **[[Survey/Gamma Quadran/Trin's Veil/Pyramus/Pyramus\|Pyramus]]** | 2538 | E566335-2                 |       | Lo       |             | 214 | Im    | K6 V         | *Se next report*                                                   |
 
 
 | Name     | Hex  | Universal<br>WorldProfile | Bases | Codes                                               | Zone restr.                                   | POP | Alleg | Stellar Data | Notes: |
