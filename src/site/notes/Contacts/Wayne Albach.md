@@ -5,5 +5,5 @@
 
 A Broker Contact at [[Survey/Delta Quadrant/Lunion\|Lunion]] that we first met at week +6. Bought military laser rifles amongst others. 
 
-Splendid business because of Jacks streetwise ability ([[Survey/Chronicle 3\|Chronicle 3]]) 
+Splendid business because of Jacks streetwise ability ([[Chronicle 3\|Chronicle 3]]) 
 
